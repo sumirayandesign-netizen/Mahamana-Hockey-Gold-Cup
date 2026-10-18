@@ -94,4 +94,14 @@ $$('[data-draft-form]').forEach(form=>{
  });
  form.addEventListener('reset',()=>{message.classList.remove('show');});
 });
+// Footer developer credit — appears beneath copyright on every page.
+const copyrightLine=document.querySelector('.footer-bottom > span:first-child');
+if(copyrightLine && !copyrightLine.querySelector('.site-credit')){
+ const credit=document.createElement('div');credit.className='site-credit';
+ credit.append(document.createTextNode('Designed & Maintained by '));
+ const link=document.createElement('a');link.href='https://www.sumirayandesign.com/';
+ link.target='_blank';link.rel='noopener noreferrer';link.textContent='Sumirayan Design';
+ credit.append(link);copyrightLine.append(credit);
+}
+
 })();
