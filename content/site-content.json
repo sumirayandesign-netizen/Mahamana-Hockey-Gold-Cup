@@ -22,7 +22,7 @@
   },
   "registration": {
     "status": "interest_only",
-    "backendEndpoint": "",
+    "backendEndpoint": "https://script.google.com/macros/s/AKfycbz4Q8iaoHC3hRu6fohkjJNdhL2hjzM8vVvGq7wSoNVY3gvbjrzyxLwv0U1WWL3rEtdb/exec",
     "notes": "Adult representatives only. No minors’ DOB/identity documents or rosters are collected; team eligibility is not yet finalized."
   },
   "reels": [
@@ -729,7 +729,7 @@
     }
   ],
   "integrations": {
-    "googleAppsScriptUrl": "",
-    "status": "requires_organizer_authorization"
+    "googleAppsScriptUrl": "https://script.google.com/macros/s/AKfycbz4Q8iaoHC3hRu6fohkjJNdhL2hjzM8vVvGq7wSoNVY3gvbjrzyxLwv0U1WWL3rEtdb/exec",
+    "status": "endpoint_configured_pending_live_test"
   }
 }
