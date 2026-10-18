@@ -104,4 +104,41 @@ if(copyrightLine && !copyrightLine.querySelector('.site-credit')){
  credit.append(link);copyrightLine.append(credit);
 }
 
+// MHGC official social links — shared header/footer across all pages.
+const socials=[
+ {id:'instagram',name:'Instagram',url:'https://www.instagram.com/mahamana_malviya_mission_bihar/',svg:'<rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.6" cy="6.5" r="1.2" fill="currentColor"/>'},
+ {id:'facebook',name:'Facebook',url:'https://www.facebook.com/profile.php?id=100095027776223',svg:'<path d="M14.8 22v-8.2h2.8l.45-3.4H14.8V8.15c0-1 .29-1.65 1.7-1.65h1.75V3.45a22 22 0 0 0-2.55-.13c-2.55 0-4.3 1.56-4.3 4.4v2.68H8.6v3.4h2.8V22z" fill="currentColor"/>'},
+ {id:'youtube',name:'YouTube',url:'https://youtube.com/@mahamanamalviyamissionbihar',svg:'<rect x="2" y="5.5" width="20" height="13" rx="4" fill="currentColor"/><path d="m10 9 5.2 3-5.2 3Z" fill="#092039"/>'}
+];
+function buildSocialNav(position){
+ const nav=document.createElement('nav');
+ nav.className='official-socials official-socials--'+position;
+ nav.setAttribute('aria-label','Mahamana Malviya Mission Bihar official social channels');
+ if(position==='footer'){
+  const label=document.createElement('span');label.className='official-socials-title';label.textContent='FOLLOW OUR JOURNEY';
+  nav.append(label);
+ }
+ socials.forEach(platform=>{
+  const a=document.createElement('a');
+  a.className='official-social-link official-social-link--'+platform.id;
+  a.href=platform.url;a.target='_blank';a.rel='noopener noreferrer';
+  a.setAttribute('aria-label','Visit our official '+platform.name+' page (opens in a new tab)');
+  a.title='Follow us on '+platform.name;
+  a.innerHTML='<svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true" focusable="false">'+platform.svg+'</svg>';
+  nav.append(a);
+ });
+ return nav;
+}
+const topbarContent=document.querySelector('.topbar > .container');
+const topbarRight=topbarContent?.querySelector('.right-top');
+if(topbarContent && !topbarContent.querySelector('.official-socials')){
+ const nav=buildSocialNav('top');
+ if(topbarRight)topbarContent.insertBefore(nav,topbarRight);
+ else topbarContent.append(nav);
+}
+const footerContacts=document.querySelector('.footer-contact');
+if(footerContacts && !document.querySelector('.official-socials--footer')){
+ footerContacts.insertAdjacentElement('afterend',buildSocialNav('footer'));
+}
+
 })();
