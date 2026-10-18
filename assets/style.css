@@ -65,3 +65,42 @@
 .official-socials-title{font-size:10px;letter-spacing:1.5px;font-weight:850;color:#a8bdd0;margin-right:4px}
 @media(max-width:900px){.official-socials--top{display:none}.official-socials--footer{flex-wrap:wrap}}
 @media(max-width:480px){.official-socials--footer{gap:9px}.official-socials-title{width:100%;margin:0 0 3px}}
+
+
+/* Social icon centering fix: override the broad .footer a block/margin rule. */
+.footer .official-socials--footer{display:flex;align-items:center;gap:12px}
+.footer .official-socials--footer .official-social-link{
+  box-sizing:border-box;
+  display:inline-flex;
+  flex:0 0 40px;
+  align-items:center;
+  justify-content:center;
+  width:40px;
+  height:40px;
+  margin:0;
+  padding:0;
+  line-height:0;
+  border:1px solid rgba(255,210,126,.35);
+  border-radius:10px;
+  color:#f7d18c;
+  background:rgba(255,255,255,.065);
+}
+.footer .official-socials--footer .official-social-link svg{
+  display:block;
+  flex:0 0 19px;
+  width:19px;
+  height:19px;
+  margin:0;
+  padding:0;
+  vertical-align:middle;
+}
+.footer .official-socials--footer .official-social-link:hover,
+.footer .official-socials--footer .official-social-link:focus-visible{
+  color:#051b31;
+  background:#f6ba48;
+  border-color:#f6ba48;
+  transform:translateY(-2px);
+}
+@media(max-width:480px){
+  .footer .official-socials--footer{gap:10px}
+}
