@@ -1,0 +1,53 @@
+name: Optimize and publish 2026 media
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'photographs/**'
+      - 'scripts/auto_import_media.py'
+      - '.github/workflows/optimize-media.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: optimize-2026-gallery
+  cancel-in-progress: false
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout website
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install image tools
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install 'Pillow>=10,<13'
+          ffmpeg -version | head -n 1
+
+      - name: Optimize originals and rebuild website
+        run: python scripts/auto_import_media.py
+
+      - name: Commit optimized images, videos and gallery
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/photos/2026-uploaded assets/media/2026-uploaded content 2026 index.html
+          git add -u
+          if git diff --cached --quiet; then
+            echo "No new media changes."
+          else
+            git commit -m "Optimize new 2026 hockey photos and videos for the website"
+            git push origin HEAD:main
+          fi
