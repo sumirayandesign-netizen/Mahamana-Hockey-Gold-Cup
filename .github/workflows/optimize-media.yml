@@ -43,8 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A assets/photos/2026-uploaded assets/media/2026-uploaded content 2026 index.html
-          git add -u
+          git add -A -- assets/photos assets/media content 2026 index.html
           if git diff --cached --quiet; then
             echo "No new media changes."
           else
