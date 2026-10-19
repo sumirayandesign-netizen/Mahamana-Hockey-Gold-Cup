@@ -1,0 +1,3 @@
+# Keep high-resolution originals in GitHub without shipping them to Vercel.
+photographs/
+photographs/**
