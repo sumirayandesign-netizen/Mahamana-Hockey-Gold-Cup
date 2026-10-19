@@ -97,6 +97,96 @@
       "demo": false
     },
     {
+      "id": "additional-footage-01",
+      "title": "Rajgir stadium footage · Clip 01",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20250102043536_0007_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-02",
+      "title": "Rajgir stadium footage · Clip 02",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "photographs-web/JPEG/DJI_20250102043806_0010_D.jpg",
+      "src": "photographs-web/MP4/DJI_20250102043806_0010_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-03",
+      "title": "Rajgir stadium footage · Clip 03",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20250102044129_0013_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-04",
+      "title": "Rajgir stadium footage · Clip 04",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20250102045234_0019_D - Copy.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-05",
+      "title": "Rajgir stadium footage · Clip 05",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20250102050226_0026_D - Copy.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-06",
+      "title": "Rajgir stadium footage · Clip 06",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20250102051339_0034_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-07",
+      "title": "Rajgir stadium footage · Clip 07",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "photographs-web/JPEG/DJI_20250102061055_0042_D.jpg",
+      "src": "photographs-web/MP4/DJI_20250102061055_0042_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-08",
+      "title": "Rajgir stadium footage · Clip 08",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "assets/media/venue.webp",
+      "src": "photographs-web/MP4/DJI_20260121102458_0077_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
+      "id": "additional-footage-09",
+      "title": "Rajgir stadium footage · Clip 09",
+      "tag": "2026 · ADDITIONAL FOOTAGE",
+      "poster": "photographs-web/JPEG/DJI_20260121102654_0078_D.jpg",
+      "src": "photographs-web/MP4/DJI_20260121102654_0078_D.mp4",
+      "instagram": "",
+      "type": "mp4",
+      "demo": false
+    },
+    {
       "id": "DT0IgujkvCi",
       "title": "Instagram Post 01",
       "tag": "2026 · INSTAGRAM ARCHIVE",
@@ -467,6 +557,660 @@
           "title": "Players and guests meet on the hockey turf",
           "alt": "Players and guests meet on the hockey turf",
           "credit": "Mahamana Hockey Gold Cup 2026 event archive"
+        }
+      ]
+    },
+    {
+      "slug": "stadium-aerial",
+      "name": "Stadium & Aerial Views",
+      "description": "Views of the hockey stadium, turf and tournament setting.",
+      "category": "Stadium & Aerial Views",
+      "photos": [
+        {
+          "src": "photographs-web/JPEG/DJI_20250102043806_0010_D.jpg",
+          "thumbnail": "photographs-web/JPEG/DJI_20250102043806_0010_D.jpg",
+          "title": "Stadium and aerial photograph · 01",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Stadium & Aerial Views, photograph 1",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/DJI_20250102061055_0042_D.jpg",
+          "thumbnail": "photographs-web/JPEG/DJI_20250102061055_0042_D.jpg",
+          "title": "Stadium and aerial photograph · 02",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Stadium & Aerial Views, photograph 2",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/DJI_20260121101447_0062_D.jpg",
+          "thumbnail": "photographs-web/JPEG/DJI_20260121101447_0062_D.jpg",
+          "title": "Stadium and aerial photograph · 03",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Stadium & Aerial Views, photograph 3",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/DJI_20260121102654_0078_D.jpg",
+          "thumbnail": "photographs-web/JPEG/DJI_20260121102654_0078_D.jpg",
+          "title": "Stadium and aerial photograph · 04",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Stadium & Aerial Views, photograph 4",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        }
+      ]
+    },
+    {
+      "slug": "tournament-moments",
+      "name": "Tournament Moments",
+      "description": "The 2026 event as captured across the tournament days.",
+      "category": "Tournament Moments",
+      "photos": [
+        {
+          "src": "photographs-web/JPEG/IMG20260120182520.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260120182520.jpg",
+          "title": "Tournament moments photograph · 01",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 1",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260120184634.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260120184634.jpg",
+          "title": "Tournament moments photograph · 02",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 2",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260120184724.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260120184724.jpg",
+          "title": "Tournament moments photograph · 03",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 3",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260120191852.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260120191852.jpg",
+          "title": "Tournament moments photograph · 04",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 4",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260120191855.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260120191855.jpg",
+          "title": "Tournament moments photograph · 05",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 5",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121094109.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121094109.jpg",
+          "title": "Tournament moments photograph · 06",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 6",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121094244.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121094244.jpg",
+          "title": "Tournament moments photograph · 07",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 7",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121124332.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121124332.jpg",
+          "title": "Tournament moments photograph · 08",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 8",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121124706.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121124706.jpg",
+          "title": "Tournament moments photograph · 09",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 9",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121163134.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121163134.jpg",
+          "title": "Tournament moments photograph · 10",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 10",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121163203.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121163203.jpg",
+          "title": "Tournament moments photograph · 11",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 11",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121163206.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121163206.jpg",
+          "title": "Tournament moments photograph · 12",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 12",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121163821.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121163821.jpg",
+          "title": "Tournament moments photograph · 13",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 13",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121184416.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121184416.jpg",
+          "title": "Tournament moments photograph · 14",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 14",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121191427.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121191427.jpg",
+          "title": "Tournament moments photograph · 15",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 15",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192120.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192120.jpg",
+          "title": "Tournament moments photograph · 16",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 16",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192131.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192131.jpg",
+          "title": "Tournament moments photograph · 17",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 17",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192231.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192231.jpg",
+          "title": "Tournament moments photograph · 18",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 18",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192321.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192321.jpg",
+          "title": "Tournament moments photograph · 19",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 19",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192413.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192413.jpg",
+          "title": "Tournament moments photograph · 20",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 20",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192539.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192539.jpg",
+          "title": "Tournament moments photograph · 21",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 21",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192624.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192624.jpg",
+          "title": "Tournament moments photograph · 22",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 22",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192708.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192708.jpg",
+          "title": "Tournament moments photograph · 23",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 23",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121192741.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121192741.jpg",
+          "title": "Tournament moments photograph · 24",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 24",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121193010.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121193010.jpg",
+          "title": "Tournament moments photograph · 25",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 25",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121193134.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121193134.jpg",
+          "title": "Tournament moments photograph · 26",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 26",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121193325.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121193325.jpg",
+          "title": "Tournament moments photograph · 27",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 27",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121193332.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121193332.jpg",
+          "title": "Tournament moments photograph · 28",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 28",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121193351.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121193351.jpg",
+          "title": "Tournament moments photograph · 29",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 29",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121194129.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121194129.jpg",
+          "title": "Tournament moments photograph · 30",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 30",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121194256.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121194256.jpg",
+          "title": "Tournament moments photograph · 31",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 31",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121194351.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121194351.jpg",
+          "title": "Tournament moments photograph · 32",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 32",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195700.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195700.jpg",
+          "title": "Tournament moments photograph · 33",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 33",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195711.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195711.jpg",
+          "title": "Tournament moments photograph · 34",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 34",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195717.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195717.jpg",
+          "title": "Tournament moments photograph · 35",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 35",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195724.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195724.jpg",
+          "title": "Tournament moments photograph · 36",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 36",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195755.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195755.jpg",
+          "title": "Tournament moments photograph · 37",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 37",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195818.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195818.jpg",
+          "title": "Tournament moments photograph · 38",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 38",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195826.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195826.jpg",
+          "title": "Tournament moments photograph · 39",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 39",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195833.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195833.jpg",
+          "title": "Tournament moments photograph · 40",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 40",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121195936.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121195936.jpg",
+          "title": "Tournament moments photograph · 41",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 41",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121200020.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121200020.jpg",
+          "title": "Tournament moments photograph · 42",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 42",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121200804.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121200804.jpg",
+          "title": "Tournament moments photograph · 43",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 43",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121200906.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121200906.jpg",
+          "title": "Tournament moments photograph · 44",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 44",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121201831.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121201831.jpg",
+          "title": "Tournament moments photograph · 45",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 45",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/IMG20260121201836.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG20260121201836.jpg",
+          "title": "Tournament moments photograph · 46",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Tournament Moments, photograph 46",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        }
+      ]
+    },
+    {
+      "slug": "official-photography",
+      "name": "Official Photography",
+      "description": "A curated collection from the organizer-supplied camera archive.",
+      "category": "Official Photography",
+      "photos": [
+        {
+          "src": "photographs-web/JPEG/IMG_9873.jpg",
+          "thumbnail": "photographs-web/JPEG/IMG_9873.jpg",
+          "title": "Event photography · 01",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 1",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6249.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6249.jpg",
+          "title": "Event photography · 02",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 2",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6253.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6253.jpg",
+          "title": "Event photography · 03",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 3",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6265.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6265.jpg",
+          "title": "Event photography · 04",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 4",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6266.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6266.jpg",
+          "title": "Event photography · 05",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 5",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6295.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6295.jpg",
+          "title": "Event photography · 06",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 6",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6309.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6309.jpg",
+          "title": "Event photography · 07",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 7",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6318.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6318.jpg",
+          "title": "Event photography · 08",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 8",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6324.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6324.jpg",
+          "title": "Event photography · 09",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 9",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6328.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6328.jpg",
+          "title": "Event photography · 10",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 10",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6337.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6337.jpg",
+          "title": "Event photography · 11",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 11",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6350.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6350.jpg",
+          "title": "Event photography · 12",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 12",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6351.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6351.jpg",
+          "title": "Event photography · 13",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 13",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6371.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6371.jpg",
+          "title": "Event photography · 14",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 14",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6391.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6391.jpg",
+          "title": "Event photography · 15",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 15",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6399.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6399.jpg",
+          "title": "Event photography · 16",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 16",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6407.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6407.jpg",
+          "title": "Event photography · 17",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 17",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6410.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6410.jpg",
+          "title": "Event photography · 18",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 18",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6412.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6412.jpg",
+          "title": "Event photography · 19",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 19",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6413.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6413.jpg",
+          "title": "Event photography · 20",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 20",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6414.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6414.jpg",
+          "title": "Event photography · 21",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 21",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6415.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6415.jpg",
+          "title": "Event photography · 22",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 22",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6428.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6428.jpg",
+          "title": "Event photography · 23",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 23",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6711.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6711.jpg",
+          "title": "Event photography · 24",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 24",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6979.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6979.jpg",
+          "title": "Event photography · 25",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 25",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_6982.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_6982.jpg",
+          "title": "Event photography · 26",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 26",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7000.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7000.jpg",
+          "title": "Event photography · 27",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 27",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7144.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7144.jpg",
+          "title": "Event photography · 28",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 28",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7153.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7153.jpg",
+          "title": "Event photography · 29",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 29",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7159.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7159.jpg",
+          "title": "Event photography · 30",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 30",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7163.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7163.jpg",
+          "title": "Event photography · 31",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 31",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7165.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7165.jpg",
+          "title": "Event photography · 32",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 32",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7168.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7168.jpg",
+          "title": "Event photography · 33",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 33",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7171.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7171.jpg",
+          "title": "Event photography · 34",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 34",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7175.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7175.jpg",
+          "title": "Event photography · 35",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 35",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7187.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7187.jpg",
+          "title": "Event photography · 36",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 36",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7207.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7207.jpg",
+          "title": "Event photography · 37",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 37",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7209.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7209.jpg",
+          "title": "Event photography · 38",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 38",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7210.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7210.jpg",
+          "title": "Event photography · 39",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 39",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
+        },
+        {
+          "src": "photographs-web/JPEG/_MG_7212.jpg",
+          "thumbnail": "photographs-web/JPEG/_MG_7212.jpg",
+          "title": "Event photography · 40",
+          "alt": "Mahamana Hockey Gold Cup 2026 — Official Photography, photograph 40",
+          "credit": "Organizer-supplied Mahamana Hockey Gold Cup 2026 photographic archive"
         }
       ]
     }
